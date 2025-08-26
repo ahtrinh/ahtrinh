@@ -1,4 +1,8 @@
-## Hi there 👋
+I thrive on solving complex security challenges and I aspire to lead blue team projects & initiatives that protect organizations from sophisticated cyber threats. Known as a "jack of all trades" I seamlessly blend diverse skills & tools to eliminate threats and enhance cyber defences, doing my part to safeguard any digital environment I work in.
+
+With a B.S. in Cybersecurity & Information Assurance and certifications including CompTIA Security+, PenTest+, Network+, AZ-900, and ITIL 4, I bring comprehensive expertise in vulnerability management and security operations. In my role as a Cyber Security Support Engineer, I conduct thorough vulnerability scans, prioritize risks, and implement automated remediations using PowerShell, achieving a 100% reduction in critical vulnerabilities and eliminating brute force attacks.
+
+
 
 <!--
 **ahtrinh/ahtrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
