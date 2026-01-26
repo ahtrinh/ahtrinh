@@ -1,3 +1,28 @@
-I’m an Information Security Analyst with a background in Cybersecurity Engineering and a strong interest in vulnerability management, threat hunting, and governance, risk, and compliance (GRC). While gaining professional experience in the GovCon space and working toward an active security clearance, I use this GitHub to showcase hands-on projects that demonstrate technical skills in vulnerability scanning, SIEM log analysis, and security automation. 
+# <a href="https://www.linkedin.com/in/alexhtrinh/">Alex Trinh</a>'s IT and Cybersecurity Project Portfolio
 
-My goal is to bridge technical defense with compliance frameworks, documenting labs and sandbox experiments that reflect both my current learning journey and my long-term commitment to becoming a well-rounded cybersecurity professional.
+I enjoy breaking down how attacks work and turning that understanding into detection logic, remediation, and better security processes. This GitHub is a collection of labs, scripts, and experiments from my work in SecOps and vulnerability management.
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/alexhtrinh
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
