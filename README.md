@@ -14,7 +14,7 @@ I enjoy breaking down how attacks work and turning that understanding into detec
 
 <hr/>
 
-##Connect With Me
+## Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
