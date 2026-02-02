@@ -10,14 +10,14 @@ I enjoy breaking down how attacks work and turning that understanding into detec
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ahtrinh/threat-hunting-scenario-tor)**
 
 <hr/>
 
 
 
 
-[linkedin]: https://linkedin.com/in/alexhtrinh
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
