@@ -8,9 +8,10 @@ I enjoy breaking down how attacks work and turning that understanding into detec
 - **[Vulnerability Management Program Implementation](https://github.com/ahtrinh/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations](https://github.com/ahtrinh/Windows-11-STIG-Remediations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ahtrinh/threat-hunting-scenario-tor)**
+- **[❌ Crosscheck Threat Hunt](https://github.com/ahtrinh/threat-hunting-scenario-tor)**
 
 <hr/>
 
