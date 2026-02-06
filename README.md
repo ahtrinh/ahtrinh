@@ -6,7 +6,7 @@ I enjoy breaking down how attacks work and turning that understanding into detec
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ahtrinh/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations**
+- **[Programmatic Vulnerability Remediations](https://github.com/ahtrinh/Windows-11-STIG-Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
