@@ -11,7 +11,7 @@ I enjoy breaking down how attacks work and turning that understanding into detec
 ## 🚨 Threat Hunting & Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ahtrinh/threat-hunting-scenario-tor)**
-- **[❌ Crosscheck Threat Hunt](https://github.com/ahtrinh/threat-hunting-scenario-tor)**
+- **[❌ Crosscheck Threat Hunt](https://github.com/ahtrinh/Crosscheck-Threat-Hunt)**
 
 <hr/>
 
